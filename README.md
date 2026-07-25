@@ -719,12 +719,9 @@ The insights generated from this project can support decision-making related to 
 
 ## Author
 
-### Anand Kumar
+### Uplaksh Mittal
 
 Aspiring Data Analyst
 
 PostgreSQL | SQL | Data Analytics
 
-This project is part of my Data Analytics portfolio showcasing SQL skills required for Data Analyst roles.
-
-Feel free to connect, provide feedback, or collaborate on future projects.
