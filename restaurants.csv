@@ -1,0 +1,72 @@
+restaurant_id,restaurant_name,city,opening_hours
+1,House Hub,Hyderabad,09:00 AM - 10:00 PM
+2,Biryani Palace,Hyderabad,10:00 AM - 11:00 PM
+3,Tandoori Corner,Bengaluru,10:30 AM - 11:30 PM
+4,House Grill,Chennai,11:00 AM - 12:00 AM
+5,Golden Point,Chennai,11:00 AM - 12:00 AM
+6,Spice Hub,Chennai,08:00 AM - 11:00 PM
+7,Tandoori Grill,Hyderabad,09:00 AM - 10:00 PM
+8,Spice Grill,Ahmedabad,"11:30 AM - 3:30 PM, 7:00 PM - 10:30 PM"
+9,Biryani Grill,Hyderabad,09:00 AM - 10:00 PM
+10,Tandoori Dine,Ahmedabad,08:00 AM - 09:00 PM
+11,Cafe Kitchen,Pune,"12:00 PM - 3:00 PM, 7:00 PM - 11:00 PM"
+12,Biryani Point,Hyderabad,10:00 AM - 11:00 PM
+13,Cafe Corner,Hyderabad,10:00 AM - 11:00 PM
+14,Bombay Hub,Hyderabad,09:00 AM - 10:00 PM
+15,Delhi Hub,Chennai,11:00 AM - 12:00 AM
+16,Bombay Junction,Chennai,11:00 AM - 12:00 AM
+17,Spice Dine,Ahmedabad,"11:30 AM - 3:30 PM, 7:00 PM - 10:30 PM"
+18,Royal Point,Ahmedabad,08:00 AM - 09:00 PM
+19,Food Palace,Hyderabad,10:00 AM - 11:00 PM
+20,Bombay Junction,Ahmedabad,"11:30 AM - 3:30 PM, 7:00 PM - 10:30 PM"
+21,Biryani Hub,Chennai,11:00 AM - 12:00 AM
+22,House Bites,Ahmedabad,"11:30 AM - 3:30 PM, 7:00 PM - 10:30 PM"
+23,Royal Bites,Pune,"12:00 PM - 3:00 PM, 7:00 PM - 11:00 PM"
+24,Delhi Palace,Chennai,11:00 AM - 12:00 AM
+25,House Express,Pune,"12:00 PM - 4:00 PM, 7:30 PM - 11:30 PM"
+26,Bombay Express,Ahmedabad,08:00 AM - 09:00 PM
+27,House Palace,Bengaluru,10:30 AM - 11:30 PM
+28,Golden Corner,Hyderabad,10:00 AM - 11:00 PM
+29,Biryani Bites,Chennai,08:00 AM - 11:00 PM
+30,Taste Point,Pune,"12:00 PM - 3:00 PM, 7:00 PM - 11:00 PM"
+31,House Grill,Bengaluru,09:30 AM - 10:30 PM
+32,House Express,Bengaluru,10:30 AM - 11:30 PM
+33,Tandoori Kitchen,Chennai,08:00 AM - 11:00 PM
+34,Delhi Palace,Chennai,11:00 AM - 12:00 AM
+35,Tandoori Junction,Bengaluru,09:30 AM - 10:30 PM
+36,Tandoori Dine,Hyderabad,09:00 AM - 10:00 PM
+37,House Dine,Hyderabad,09:00 AM - 10:00 PM
+38,Cafe Corner,Pune,"12:00 PM - 3:00 PM, 7:00 PM - 11:00 PM"
+39,Biryani Grill,Hyderabad,09:00 AM - 10:00 PM
+40,Cafe Junction,Bengaluru,09:30 AM - 10:30 PM
+41,Golden Point,Bengaluru,09:30 AM - 10:30 PM
+42,Tandoori Corner,Ahmedabad,08:00 AM - 09:00 PM
+43,Taste Hub,Bengaluru,10:30 AM - 11:30 PM
+44,Royal Corner,Hyderabad,10:00 AM - 11:00 PM
+45,House Point,Pune,"12:00 PM - 4:00 PM, 7:30 PM - 11:30 PM"
+46,Royal Point,Ahmedabad,"11:30 AM - 3:30 PM, 7:00 PM - 10:30 PM"
+47,Golden Dine,Hyderabad,09:00 AM - 10:00 PM
+48,Cafe Grill,Pune,"12:00 PM - 3:00 PM, 7:00 PM - 11:00 PM"
+49,House Hub,Hyderabad,09:00 AM - 10:00 PM
+50,Cafe Express,Ahmedabad,"11:30 AM - 3:30 PM, 7:00 PM - 10:30 PM"
+51,Cafe Point,Bengaluru,10:30 AM - 11:30 PM
+52,Taste Kitchen,Ahmedabad,08:00 AM - 09:00 PM
+53,Food Corner,Bengaluru,09:30 AM - 10:30 PM
+54,Royal Palace,Ahmedabad,08:00 AM - 09:00 PM
+55,Golden Bites,Chennai,11:00 AM - 12:00 AM
+56,Bombay Corner,Hyderabad,09:00 AM - 10:00 PM
+57,Food Kitchen,Hyderabad,10:00 AM - 11:00 PM
+58,Bombay Dine,Chennai,11:00 AM - 12:00 AM
+59,Royal Express,Bengaluru,10:30 AM - 11:30 PM
+60,Tandoori Kitchen,Hyderabad,09:00 AM - 10:00 PM
+61,Golden Hub,Chennai,11:00 AM - 12:00 AM
+62,Biryani Dine,Hyderabad,09:00 AM - 10:00 PM
+63,Food Corner,Pune,"12:00 PM - 3:00 PM, 7:00 PM - 11:00 PM"
+64,House Dine,Bengaluru,10:30 AM - 11:30 PM
+65,Urban Palace,Pune,"12:00 PM - 4:00 PM, 7:30 PM - 11:30 PM"
+66,Golden Point,Bengaluru,09:30 AM - 10:30 PM
+67,Food Bites,Chennai,08:00 AM - 11:00 PM
+68,Delhi Express,Bengaluru,09:30 AM - 10:30 PM
+69,Food Dine,Bengaluru,09:30 AM - 10:30 PM
+70,Tandoori Bites,Chennai,11:00 AM - 12:00 AM
+71,Bombay Kitchen,Bengaluru,10:30 AM - 11:30 PM
